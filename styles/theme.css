@@ -1,0 +1,134 @@
+@media only screen and (max-width : 411px) {
+  header {
+    background-color: lightcoral;
+  }
+  
+  
+  #b {
+    background-color: lightgreen;
+  }
+  
+  #c{
+    background-color: lightskyblue;
+  }
+  
+  #d{
+    background-color: bisque;
+  }
+  
+  
+  #e {
+    background-color: plum;
+  }
+  
+  #f{
+    background-color: lightseagreen;
+  }
+  
+  #g{
+    background-color:orange;
+  }
+  
+  #h{
+    background-color: lightslategray;
+  }
+  
+  footer{
+    background-color: lime;
+  }
+}
+  @media only screen and (min-width:320px) {
+    header {
+      background-color: rgb(189, 124, 134);
+    }
+    
+    
+    #b {
+      background-color: rgb(1, 206, 1);
+    }
+    
+    #c{
+      background-color: rgb(77, 124, 143);
+    }
+    
+    #d{
+      background-color: rgb(167, 79, 79);
+    }
+    
+    #e{
+      background-color: pink;
+    }
+    
+    #f {
+      background-color: rgb(25, 88, 88);
+    }
+    
+    #g {
+      background-color: rgb(230, 140, 107);
+    }
+    
+    #h {
+      background-color: rgb(100, 100, 100);
+    }
+    
+    footer{
+      background-color: rgb(7, 65, 7);
+    }
+  }
+
+  @media only screen and (min-width:769px) {
+    header {
+  
+      background-color: coral;
+    }
+    
+    
+    #b {
+    
+      background-color: green;
+    
+    }
+    
+    #c{
+     
+      background-color: skyblue;
+    
+    }
+    
+    #d{
+    
+      background-color: brown;
+    
+    }
+    
+    
+    #e{
+    
+      background-color: pink;
+    
+    }
+    
+    #f {
+      
+      background-color: teal;
+    
+    }
+    
+    #g {
+     
+      background-color: orangered;
+     
+    }
+    
+    #h {
+    
+      background-color: gray;
+    
+    }
+    
+    footer{
+    
+      background-color: darkgreen;
+    
+    }
+  }
